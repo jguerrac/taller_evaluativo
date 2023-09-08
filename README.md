@@ -1,4 +1,5 @@
 # taller_evaluativo
+INTEGRANTES:
 
-jhonnatan guerra capera
+jhonnatan guerra capera - 
 santiago arteaga tobon
